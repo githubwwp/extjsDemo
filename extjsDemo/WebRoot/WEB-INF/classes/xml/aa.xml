@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	<person>
+		<name>xiaoming</name>
+		<id>wefw</id>
+	</person>
+	<person>
+		<name>xiaohong </name>
+		<id>ouji</id>
+	</person>
+	<cdatatest>
+		<![CDATA[
+			<wefwfef>
+			>wefjweo '""wefwe"
+		]]>
+	</cdatatest>
+</root>
